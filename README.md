@@ -7,7 +7,7 @@ los lenguagess utilizados en este proyecto son:
 °Javascript   
 °El proyecto cuenta con una interfaz de usuario simple por lo que la navegación en esta no será difícil
 # Aclaración:
-Sobre el lado derecho se encuentra un menú (conocido como menú de Hamburguesa) en el cual clickeando se puede ingresar al CV presionando "Curriculum".
+En la versión de celular,Sobre el lado derecho se encuentra un menú (conocido como menú de Hamburguesa) en el cual clickeando se puede ingresar al CV presionando "Curriculum".
 
 # Sobre mi:   
 Mi nombre es Facundo Lopez Frias,actualmente tengo 19 años, este es mi primer proyecto de programación. Desde chico siempre me interesó el mundo de las computadoras y por medio de las redes sociales llegue a este curso, por lo que decidí investigar más a fondo sobre este y me decidí por realizarlo.
